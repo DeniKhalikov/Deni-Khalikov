@@ -1,9 +1,9 @@
-### Hey there, I'm Deni
+### Hey there, I'm Deni, a Philosopher & Computer Scientist.
 
-## Fullstack Coding Bootcamp Attendee, Soon to be Computer Scientist.
-- 🔭 I’m currently working on a [VS Code Course][website]!
+## Fullstack Coding Bootcamp Attendee.
 - 🌱 I’m currently learning fullstack development @Becode & Harvard's CS50!
-- 🥅 2020 Goals: Finish Becode, CS50 and The Missing Semester.
+- 🥅 2020 Goals: Finish Becode, CS50 and The Missing Semester
+- 📚 Read: Introduction to Algos, Clean Code CTCI.
 - ⚡  I like to write novels and would like to publish a book.
 
-### Under construction, come back soon (like, tomorrow)
+### Under construction, come back soon (like, tomorrow? etas0n)
